@@ -1,6 +1,6 @@
 # Win 下安装使用 Clash
 
-1、下载安装 Clash，位置：https://github.com/Dreamacro/clash，下载安装适合的 release 版本即可
+1、下载安装 Clash，位置：https://github.com/Dreamacro/clash
 
 2、下载 proxy rule
 
