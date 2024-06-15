@@ -5,4 +5,4 @@
 # DATE: 2021-09-01
 # DESCRIPTION: A brief description of what this script does.
 
-curl -o "clash_rule.yaml" "https://test.biubiufly.net/link/5JQ9ALEvZVjndNGM?clash=1"
+curl -o "clash-rule.yaml" "https://test.biufly.top/link/5JQ9ALEvZVjndNGM?clash=1"
